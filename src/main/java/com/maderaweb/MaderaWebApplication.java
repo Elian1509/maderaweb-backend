@@ -1,4 +1,4 @@
-package com.maderaweb.maderaweb_backend;
+package com.maderaweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

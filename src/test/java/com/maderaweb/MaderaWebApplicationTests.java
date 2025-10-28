@@ -1,4 +1,4 @@
-package com.maderaweb.maderaweb_backend;
+package com.maderaweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
